@@ -1,20 +1,49 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <img width="1200" height="300" alt="LifeWise Mentor Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🧘 LifeWise Mentor — AI Life Advice App
 
-This contains everything you need to run your app locally.
+**LifeWise Mentor** is an AI-powered web application that provides instant, practical, and compassionate life advice for career, relationships, motivation, and general life challenges. Built with Google AI Studio and Gemini API, it makes professional-grade mentorship accessible to everyone.
 
-View your app in AI Studio: [https://ai.studio/apps/53857ab3-00c4-43ca-aa68-ebf477573cf7](https://aistudio.google.com/apps/3e7e2b93-fd52-4b5b-826b-9de7522f3543?fullscreenApplet=true&showPreview=true&showAssistant=true)
+---
 
-## Run Locally
+## 🌐 Live Deployed URL
 
-**Prerequisites:**  Node.js
+**🔗 [https://lifewise-mentor.ai.studio](https://lifewise-mentor.ai.studio)**
 
+> *Click the link above to use the live app — no login required!*
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🎯 Problem It Solves
+
+Millions of people face daily life challenges — career confusion, relationship issues, lack of motivation, or general anxiety. Most don't have access to professional mentors or therapists. 
+
+**LifeWise Mentor solves this by:**
+- Providing **instant, AI-generated advice** 24/7
+- Making **professional-quality guidance** accessible to everyone
+- Offering **specific, actionable steps** (not just generic quotes)
+- Being **completely free** and easy to use
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| **4 Advice Categories** | Career, Relationships, Motivation, General |
+| **Personalized Questions** | Type your specific situation or problem |
+| **AI-Generated Advice** | Practical, warm, and actionable guidance |
+| **Sample Questions** | 8 ready-made questions for inspiration |
+| **Copy to Clipboard** | One-click copy advice for later use |
+| **Clean UI** | Calming design with smooth animations |
+| **Responsive** | Works on mobile, tablet, and desktop |
+
+---
+
+## 🤖 AI Feature & System Prompt
+
+**Model:** Google Gemini 2.0 Flash (via Google AI Studio)
+
+**System Prompt:**
