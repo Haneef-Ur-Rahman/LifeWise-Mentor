@@ -1,0 +1,6 @@
+{
+  "name": "LifeWise Mentor",
+  "description": "Wise, practical, and encouraging life advice for career, relationships, motivation, and general guidance powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
