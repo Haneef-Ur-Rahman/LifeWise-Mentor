@@ -10,7 +10,7 @@
 
 ## 🌐 Live Deployed URL
 
-**🔗 [https://lifewise-mentor.ai.studio](https://lifewise-mentor.ai.studio)**
+**🔗 https://lifewise-mentor-app-563390837043.asia-southeast1.run.app**
 
 > *Click the link above to use the live app — no login required!*
 
